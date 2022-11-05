@@ -1,1 +1,3 @@
-whatever
+something random
+::wq
+:q

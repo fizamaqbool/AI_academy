@@ -1,3 +1,7 @@
+whatever
+hello
+hi
+wassup
 something random
 ::wq
 :q
